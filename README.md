@@ -2,4 +2,4 @@
 test
 
 
-"kubectl proxy"
+kubectl proxy
